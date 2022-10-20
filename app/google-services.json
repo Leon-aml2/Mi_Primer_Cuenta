@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681778648250",
+    "project_id": "primera-cuenta-84a88",
+    "storage_bucket": "primera-cuenta-84a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681778648250:android:0659972a324845d4345e83",
+        "android_client_info": {
+          "package_name": "com.example.mi_primer_cuenta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681778648250-p6svaidl4ne5a6t692dv9bukcrakj9pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAusoTo_zy6Qpm6MQq_x9Skw_sraX9fbo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681778648250-p6svaidl4ne5a6t692dv9bukcrakj9pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
